@@ -16,8 +16,10 @@ This Python script demonstrates real-time face detection using OpenCV with a web
 4. A window will open showing the webcam feed with detected faces highlighted by rectangles.
 5. Press 'Esc' key to close the window and stop the script.
 
-   ![image](https://github.com/yash777u/Face-Detection/assets/95225950/727e2995-d11c-44b2-8ed9-5f9f7f3e1b8b)
-   ![image](https://github.com/yash777u/Face-Detection/assets/95225950/54bd8594-019d-446c-ab20-fa871e40c20f)
+# Sample 
+1. ![image](https://github.com/yash777u/Face-Detection/assets/95225950/727e2995-d11c-44b2-8ed9-5f9f7f3e1b8b)
+2. ![image](https://github.com/yash777u/Face-Detection/assets/95225950/54bd8594-019d-446c-ab20-fa871e40c20f)
+   
 
 
 
